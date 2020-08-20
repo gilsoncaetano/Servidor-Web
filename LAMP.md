@@ -7,10 +7,12 @@ para poder usar e ospedar um site ou até mais de um site.
 ### Assistir ao vídeo de introdução
 [![Curso de como Instalar e configurar o servidor web](http://img.youtube.com/vi/fqR5SymRgLQ/0.jpg)](https://www.youtube.com/watch?v=fqR5SymRgLQ&list=PLbEOwbQR9lqySZ9RXfF5cFSyfA-r3n30q)
 
+### Print das Atividades.
+
 ![](https://github.com/gilsoncaetano/Servidor-Web/blob/master/Lamp.md/A-Print-ServidorWeb-DNS%20.PNG)
-### A-ServidorWeb-DNS
+### A-ServidorWeb + DNS
 ![](https://github.com/gilsoncaetano/Servidor-Web/blob/master/Lamp.md/B-Ping-ServidorWeb-DNS.PNG)
-### B-Ping-ServidorWeb-DNS
+### B-Ping-ServidorWeb + DNS
 ![](https://github.com/gilsoncaetano/Servidor-Web/blob/master/Lamp.md/C-Pingando%20Servidor-Web-%20DNS.PNG)
 ### C- PC-Pingando ServidorWeb + DNS
 ![](https://github.com/gilsoncaetano/Servidor-Web/blob/master/Lamp.md/D-Acesso-Remoto-WebServer-SSH.PNG)

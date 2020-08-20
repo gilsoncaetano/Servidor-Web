@@ -36,5 +36,5 @@ para poder usar e ospedar um site ou até mais de um site.
 ### L-navegador-phpmyadmin
 
 
-### Recomendo Assista as aular do Profesor Jose de assis Exelente Professor
+### Recomendo Assista as aular do Profesor Jose de assis Excelente Professor
 [Profesor Jose de assis Exelente Professor](https://www.youtube.com/channel/UCySbdH4Tt_l5W4gQJrNqm-Q)
